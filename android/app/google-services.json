@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464510931389",
+    "project_id": "login-app-bbe17",
+    "storage_bucket": "login-app-bbe17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464510931389:android:c85bb19edf4fe0542042d4",
+        "android_client_info": {
+          "package_name": "com.debasmita.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464510931389-tnm40pnvpbqi6mqhr46lje19lhcg1d5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZrrSzJTw3AVhnSUWjbZLs2mVKH0_sJn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464510931389-tnm40pnvpbqi6mqhr46lje19lhcg1d5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
